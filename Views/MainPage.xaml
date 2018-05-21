@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:views="clr-namespace:CoffeShopMobile.Views" 
+             x:Class="CoffeShopMobile.Views.MainPage"
+             BackgroundImage="background.jpg" 
+             >
+   <StackLayout VerticalOptions="EndAndExpand">
+        <Button x:Name="btnOrder" Text="Order" Clicked="Handle_Clicked"></Button>
+        <Button x:Name="btnViewOrders" Text="View Orders" Clicked="Handle_Clicked_1"></Button>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,9 @@
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/bin/Debug/netstandard2.0/CoffeShopMobile.deps.json
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/bin/Debug/netstandard2.0/CoffeShopMobile.dll
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/bin/Debug/netstandard2.0/CoffeShopMobile.pdb
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.csproj.CoreCompileInputs.cache
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.AssemblyInfoInputs.cache
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.AssemblyInfo.cs
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.dll
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.pdb
+/Users/arta/Projects/CoffeShopMobile/CoffeShopMobile/obj/Debug/netstandard2.0/CoffeShopMobile.csprojResolveAssemblyReference.cache
